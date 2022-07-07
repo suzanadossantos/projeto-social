@@ -2,4 +2,4 @@
 
 Projeto de Redes Sociais 
 
-🔗 Link: 
+🔗 Link: https://suzanadossantos.github.io/projeto-social/
